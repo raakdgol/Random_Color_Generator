@@ -47,7 +47,7 @@ GENERATE_RANDOM_COLOR/
 
 ## How It Works
 
-The application uses vanilla JavaScript to:
+The application uses JavaScript to:
 
 1. Generate a random hexadecimal color code
 2. Select the color box element in the DOM
